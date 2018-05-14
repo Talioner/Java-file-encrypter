@@ -1,0 +1,9 @@
+/* AUTOMATICALLY GENERATED ON Sat May 12 13:57:32 CEST 2018*/
+/* DO NOT EDIT */
+
+keystore "file:/C:/Users/KacperT/Desktop/Java2/Lab9_2/kacper_store", "jks";
+
+grant signedBy "kacper" {
+  permission java.io.FilePermission "C:/Users/KacperT/Desktop/Java2/Lab9_2/-", "read, write, execute";
+};
+
